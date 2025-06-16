@@ -56,7 +56,6 @@ function editar(id) {
   }
 }
 
-// Navegação entre seções
 function mostrarSecao(secao) {
   document.getElementById('menu').style.display = 'none';
   document.getElementById('cadastro').style.display = 'none';
